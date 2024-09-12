@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    font-size: 16px;
+    height: 100vh;
+    overflow-x: hidden;
+    justify-content: center;
+    display: grid;
+    margin: 5px auto;
+}
+.procedimentos {
+    padding: 200px;
+    background-color: rgb(247, 161, 247);
+    border-radius: 20px;
+    font-family: Outfit;
+    text-align: center;
+    margin-top: 30px;
+    background-size: cover;
+    background-position: center;   
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-left: 260px;
+    margin-right: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300vh;
+    flex-direction: column;
+
+}
+img {
+    max-width: 140%;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.botao {
+    
+}
