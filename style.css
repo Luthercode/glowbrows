@@ -30,6 +30,8 @@ body {
     background-position: center;
     overflow-x: hidden;
     overflow-y: hidden;
+    justify-content: center;
+    margin-bottom: 30px;
 }
 h2 {
     color: rgb(139, 139, 139);
@@ -113,11 +115,13 @@ p {
 }
 @keyframes slidein {
     from {
-    padding-top: 150%;
+    padding-top: 100%;
     width: 100%;
     }
     to {
-    margin-left: 0%;
+    margin-left: 0;
     width: auto;
+    margin-left: 0;
+    margin-right: 0;
     }
 }
